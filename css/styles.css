@@ -203,6 +203,16 @@ h1{
     color: var(--p-text-color);
 }
 
+.clients{
+    font-style: normal;
+    font-weight: bold;
+    font-size: 36px;
+    line-height: 1.17;
+    text-align: center;
+    letter-spacing: 0.03em;
+    color: var(--bold-title-color);
+}
+
 /* FOOTER */
 
 .bot-logo{
@@ -246,10 +256,9 @@ h1{
 
 b{
     
-   
     font-weight: bold;
-    font-size: 36px;
-    line-height: 1.17;
+    font-size: 14px;
+    line-height: 1.14;
     letter-spacing: 0.03em;
     text-transform: uppercase;
     color: var(--main-header-color);
