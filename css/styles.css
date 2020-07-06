@@ -264,7 +264,7 @@ footer{
 
 /*PORTFOLIO MAIN*/
 
-.all-button{
+/*.all-button{
     
     
     font-weight: 500;
@@ -277,7 +277,7 @@ footer{
     color: var(--main-header-color);
     background-color: var(--accent-color);
 }
-
+*/
 .proj-type-button:focus,
 .proj-type-button:hover{
 
