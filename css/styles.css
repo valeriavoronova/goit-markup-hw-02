@@ -222,7 +222,7 @@ h1{
 
 .address{
    
-    
+    font-style: normal;
     font-weight: normal;
     font-size: 14px;
     line-height: 1.71;
@@ -233,7 +233,7 @@ h1{
 
 .mail-phone{
     
-    
+    font-style: normal;
     font-weight: normal;
     font-size: 14px;
     line-height: 1.71;
